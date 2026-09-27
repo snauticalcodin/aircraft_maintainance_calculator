@@ -59,7 +59,7 @@ python --version
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/snauticalcodin/aircraft-maintainance-calculator
+git clone https://github.com/snauticalcodin/aircraft_maintainance_calculator
 ```
 
 ### 3. Open the project folder
